@@ -2,7 +2,7 @@
 Use the [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117) to download the correct version of Microsoft Office 2019, 2021, or 365:
 
 #### Instruction:
-- Install the Office Deployment Tool
+- Install Office Deployment Tool
 - Run setup.exe from the console and pass the configuration file as an argument:
 *setup.exe /configure config-file.xml*
 
@@ -13,3 +13,7 @@ Use the [Office Deployment Tool](https://www.microsoft.com/en-us/download/confir
 ### Microsoft Office for macOS
 
 - Download: [Microsoft Office for macOS 2019/2021/365](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.61.22050700_Installer.pkg)
+
+### OnlyOffice Desktop for Windows, Linux, macOS
+
+- Download: [OnlyOffice Desktop for Windows, Linux, macOS](https://github.com/ONLYOFFICE/DesktopEditors/releases/tag/v7.1.1)
