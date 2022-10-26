@@ -2,7 +2,7 @@
 Use the [Office Deployment Tool](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117) to download the correct version of Microsoft Office 2019, 2021, or 365:
 
 #### Instruction:
-- Install Office Deployment Tool
+- Install the Office Deployment Tool
 - Run setup.exe from the console and pass the configuration file as an argument:
 *setup.exe /configure config-file.xml*
 
