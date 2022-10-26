@@ -1,0 +1,15 @@
+<Configuration>
+
+        <Add OfficeClientEdition="32" Channel="PerpetualVL2019" Version="16.0.10386.20017">
+
+            <Product ID="ProPlus2019Volume">
+
+               <Language ID="en-us" />
+
+            </Product>
+
+        </Add>
+
+    <Updates Enabled="FALSE" />
+
+</Configuration>

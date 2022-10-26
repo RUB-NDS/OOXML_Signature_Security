@@ -1,0 +1,15 @@
+<Configuration>
+
+        <Add OfficeClientEdition="32" Channel="MonthlyEnterprise" Version="16.0.15028.20248">
+
+            <Product ID="O365ProPlusRetail">
+
+               <Language ID="en-us" />
+
+            </Product>
+
+        </Add>
+
+    <Updates Enabled="FALSE" />
+
+</Configuration>
